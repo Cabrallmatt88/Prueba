@@ -1,0 +1,27 @@
+.container {
+    background-color: #f2f2f2;
+    border: 1px solid black;
+    padding: 20px;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+.error-msg {
+    color: red;
+}
+
+.button-calcular {
+    background-color: blue;
+    color: yellow;
+    border: 2px solid gray;
+    padding: 5px;
+    font-size: 12px;
+    width: 50px;
+}
+
+.image {
+    width: 100px;
+    margin-top: 10px;
+}
